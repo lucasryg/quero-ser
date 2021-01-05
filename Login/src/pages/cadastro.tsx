@@ -21,4 +21,4 @@ function Cadastro() {
   );
 }
 
-export default Cadast
+export default Cadastro;
