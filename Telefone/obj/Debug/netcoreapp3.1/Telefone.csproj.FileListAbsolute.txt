@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.exe
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.deps.json
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.json
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\bin\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\Lucas\Desktop\Exercicios Dojo\Telefone\obj\Debug\netcoreapp3.1\Telefone.genruntimeconfig.cache

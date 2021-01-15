@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cad{
+    height: 100%;
+}
+
+.Form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20em;
+}
+
+button{
+    margin: 1em;
+    width: 13em;
+}
